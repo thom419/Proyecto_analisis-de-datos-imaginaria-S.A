@@ -1,9 +1,9 @@
  Proyecto de Análisis de Datos – Empresa Imaginaria s.a
 
-En este repositorio se desarrolla un **mini proyecto de análisis de datos** orientado a demostrar habilidades en limpieza, manipulación, visualización y generación de insights accionables a partir de información de ventas simulada.
+En este repositorio se desarrolla un mini proyecto de análisis de datos orientado a demostrar habilidades en limpieza, manipulación, visualización y generación de insights accionables a partir de información de ventas simulada.
 
 Contexto del proyecto
-La base de datos utilizada representa el registro de ventas de una **empresa de retail (imaginaria s.a) con operaciones en Argentina y otros países de Latinoamérica**, que comercializa productos tanto a través de **tiendas físicas** como mediante **canales de e-commerce**.
+La base de datos utilizada representa el registro de ventas de una **empresa de retail (imaginaria s.a) con operaciones en Argentina y otros países de Latinoamérica, que comercializa productos tanto a través de **tiendas físicas** como mediante canales de e-commerce.
 
 El dataset incluye información sobre:
 - Países y canales de venta.
@@ -39,18 +39,13 @@ Metodología
 
 ---
 
-Resultados principales
-- Ingresos totales: **USD 5,12 millones**.  
-- Margen promedio: **37 %**.  
-- Canal **E-commerce** con **54,3 % de participación** en ventas totales.  
-- Categorías líderes: **Cochecitos, Butacas y Cunas**.  
-- Fuerte presencia digital y márgenes saludables, con espacio para potenciar el canal online y productos de alto valor.
-
----
-
 Herramientas utilizadas
 - **Excel:** limpieza y análisis exploratorio.  
 - **Power BI:** visualización interactiva y dashboard final.  
 - **GitHub:** documentación y publicación del proyecto.  
 
 ---
+Autor: Facundo Godoy 
+Estudiante de sistemas de informacion de las organizaciones- FCE-UBA
+Correo:godoyfacundotomas336@gmail.com
+
