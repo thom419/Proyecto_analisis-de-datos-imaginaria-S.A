@@ -3,7 +3,7 @@
 En este repositorio se desarrolla un mini proyecto de análisis de datos orientado a demostrar habilidades en limpieza, manipulación, visualización y generación de insights accionables a partir de información de ventas simulada.
 
 Contexto del proyecto
-La base de datos utilizada representa el registro de ventas de una **empresa de retail (imaginaria s.a) con operaciones en Argentina y otros países de Latinoamérica, que comercializa productos tanto a través de **tiendas físicas** como mediante canales de e-commerce.
+La base de datos utilizada representa el registro de ventas de una empresa de retail (imaginaria s.a) con operaciones en Argentina y otros países de Latinoamérica, que comercializa productos tanto a través de tiendas físicas como mediante canales de e-commerce.
 
 El dataset incluye información sobre:
 - Países y canales de venta.
